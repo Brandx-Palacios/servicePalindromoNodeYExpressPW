@@ -1,0 +1,16 @@
+# Dependencias y módulos de Node.js
+node_modules/
+
+# Archivos de configuración específicos del entorno
+.env
+
+# Archivos generados por el sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de registro y salida
+logs/
+*.log
+
+# Otros archivos generados durante la ejecución
+dist/

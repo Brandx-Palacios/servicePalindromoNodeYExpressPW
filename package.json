@@ -1,0 +1,15 @@
+{
+    "name": "examen-final-pw-palindromo-punto-3",
+    "version": "1.0.0",
+    "description": "Validación con números y palabras palíndromas usando el servicio Node.js y Express",
+    "main": "palindromo-service.js",
+    "scripts": {
+      "start": "palindromo-service.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "body-parser": "^1.19.0"
+    },
+    "author": "Brandon Palacios",
+    "license": "MIT"
+}
